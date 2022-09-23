@@ -1,2 +1,2 @@
 # sort-data
-Bubble sorts string and number data.
+A typescript app that bubble sorts string and number data.
